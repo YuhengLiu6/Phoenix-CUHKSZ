@@ -1,0 +1,674 @@
+[
+    {
+        "Name": "唐本忠",
+        "Description": "校长学勤讲座教授 院长、中国科学院院士、亚太材料科学院院士、发展中国家世界科学院院士",
+        "Email": "tangbenz@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "崔曙光",
+        "Description": "校长学勤讲座教授 国际电气及电子工程师学会会士",
+        "Email": "shuguangcui@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄乃正",
+        "Description": "校长学勤讲座教授 中国科学院院士、发展中世界科学院院士、香港科学院院士",
+        "Email": "hncwong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "帅志刚",
+        "Description": "校长学勤讲座教授 副院长（科研）、比利时皇家科学院外籍院士、欧洲科学院外籍院士、国际量子分子科学院院士",
+        "Email": "shuaizhigang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "唐叔贤",
+        "Description": "校长学勤讲座教授 中国科学院院士、发展中国家科学院院士",
+        "Email": "tongsy@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张瑞",
+        "Description": "校长学勤讲座教授 新加坡工程院院士，国际电气及电子工程师学会会士、全球高被引科学家",
+        "Email": "rzhang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄劲松",
+        "Description": "校长讲座教授",
+        "Email": "huangjingsong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄建伟",
+        "Description": "校长讲座教授 协理副校长（拓展事务）、国际电气及电子工程师学会会士、全球高被引科学家",
+        "Email": "jianweihuang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "罗智泉",
+        "Description": "校长讲座教授 中国工程院外籍院士、加拿大皇家科学院院士",
+        "Email": "pengyanni@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "倪维明",
+        "Description": "校长讲座教授",
+        "Email": "niweiming@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "裴有康",
+        "Description": "校长讲座教授 美国国家工程院院士、麦克奈特杰出教授",
+        "Email": "davidpui@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王筱平",
+        "Description": "校长讲座教授",
+        "Email": "wangxiaoping@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王学锋",
+        "Description": "校长讲座教授 研究生院院长",
+        "Email": "wangxf@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "徐扬生",
+        "Description": "校长讲座教授 中国工程院院士、国际欧亚科学院院士、国际宇航科学院院士、国际电机及电子工程师学会会士、香港工程科学院院士、香港工程师学会院士",
+        "Email": "ysxu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱世平",
+        "Description": "校长讲座教授 加拿大工程院院士、加拿大皇家科学院院士、发展中国家科学院院士",
+        "Email": "shipingzhu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "甘培润",
+        "Description": "教授 国际电气及电子工程师学会（IEEE）会士、亚太人工智能学会（AAIA）会士、新加坡工程学会（IES）会士",
+        "Email": "pykam@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "李东",
+        "Description": "教授 国际电气及电子工程师学会会士、香港工程师学会会士",
+        "Email": "tonylee@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "梁灏锵",
+        "Description": "教授 英国计算机协会会士、皇家文艺制造商业协会会士",
+        "Email": "clementleung@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "梁永波",
+        "Description": "教授 英国皇家化学会会士",
+        "Email": "kevinleung@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "潘兴斌",
+        "Description": "教授",
+        "Email": "panxingbin@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱军",
+        "Description": "教授",
+        "Email": "jun.zhu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "周艳",
+        "Description": "教授 校长学者、英国皇家物理学会会士",
+        "Email": "zhouyan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "侯勇",
+        "Description": "副教授",
+        "Email": "houyong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄川",
+        "Description": "副教授 校长青年学者",
+        "Email": "huangchuan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄锐",
+        "Description": "副教授 校长青年学者",
+        "Email": "ruihuang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "潘文安",
+        "Description": "副教授",
+        "Email": "simonpun@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "彭小水",
+        "Description": "副教授 校长青年学者",
+        "Email": "xspeng@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "沈颖祺",
+        "Description": "副教授",
+        "Email": "wkshum@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王明锋",
+        "Description": "副教授 校长学者",
+        "Email": "wangmingfeng@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "肖博文",
+        "Description": "副教授 执行副院长、校长学者",
+        "Email": "xiaobowen@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "许杰",
+        "Description": "副教授 助理院长（科研）、校长学者",
+        "Email": "xujie@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张建辉",
+        "Description": "副教授",
+        "Email": "zhangjianhui@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱建",
+        "Description": "副教授",
+        "Email": "zhujian@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张昭宇",
+        "Description": "副教授 校长青年学者",
+        "Email": "zhangzy@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张纵辉",
+        "Description": "副教授 助理院长（教育）、校长学者、国际电气及电子工程师学会会士",
+        "Email": "changtsunghui@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "赵俊华",
+        "Description": "副教授 校长青年学者",
+        "Email": "zhaojunhua@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈廷欢",
+        "Description": "助理教授",
+        "Email": "chentinghuan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈仲欣",
+        "Description": "助理教授",
+        "Email": "chenzhongxin@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈添锴",
+        "Description": "助理教授",
+        "Email": "chentiankai@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈梓坍",
+        "Description": "助理教授 校长青年学者",
+        "Email": "chenztan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈元",
+        "Description": "助理教授",
+        "Email": "chenyuan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "蔡玮",
+        "Description": "助理教授 校长青年学者",
+        "Email": "caiwei@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈俊挺",
+        "Description": "助理教授 校长青年学者",
+        "Email": "juntingc@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "龚世华",
+        "Description": "助理教授",
+        "Email": "gongshihua@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "韩晓光",
+        "Description": "助理教授 校长青年学者",
+        "Email": "hanxiaoguang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "贺冬冬",
+        "Description": "助理教授",
+        "Email": "hedongdong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄家裕",
+        "Description": "助理教授",
+        "Email": "danielwong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "蒋招立",
+        "Description": "助理教授",
+        "Email": "zljiang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "冀东",
+        "Description": "助理教授 校长青年学者",
+        "Email": "jidong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "纪冬旭",
+        "Description": "助理教授",
+        "Email": "jidongxu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "柯志海",
+        "Description": "助理教授 校长青年学者",
+        "Email": "kezhihai@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "罗才华",
+        "Description": "助理教授",
+        "Email": "luocaihua@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "李怀光",
+        "Description": "助理教授",
+        "Email": "lihuaiguang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "雷顺波",
+        "Description": "助理教授",
+        "Email": "leishunbo@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "罗元",
+        "Description": "助理教授",
+        "Email": "luoyuan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "刘寻",
+        "Description": "助理教授 校长青年学者",
+        "Email": "liuxun@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "林天麟",
+        "Description": "助理教授 校长青年学者、国际电气及电子工程师学会高级会员",
+        "Email": "tllam@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "李镇",
+        "Description": "助理教授 校长青年学者",
+        "Email": "lizhen@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "李玉田",
+        "Description": "助理教授",
+        "Email": "liyutian@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "丘子杰",
+        "Description": "助理教授 校长青年学者",
+        "Email": "zijieqiu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "钱辉环",
+        "Description": "助理教授",
+        "Email": "hhqian@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "沈闓明",
+        "Description": "助理教授",
+        "Email": "shenkaiming@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "孙正隆",
+        "Description": "助理教授",
+        "Email": "sunzhenglong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "唐晓莹",
+        "Description": "助理教授",
+        "Email": "tangxiaoying@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王方鑫",
+        "Description": "助理教授 校长青年学者",
+        "Email": "wangfangxin@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王东",
+        "Description": "助理教授",
+        "Email": "wangdong@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王璐",
+        "Description": "助理教授 校长青年学者",
+        "Email": "lwang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "吴辰晔",
+        "Description": "助理教授 校长青年学者",
+        "Email": "chenyewu@yeah.net",
+        "College": "理工学院"
+    },
+    {
+        "Name": "吴亮",
+        "Description": "助理教授 校长青年学者",
+        "Email": "wuliang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "解碧野",
+        "Description": "助理教授",
+        "Email": "xiebiye@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "颜骏",
+        "Description": "助理教授",
+        "Email": "yanjun@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "俞江帆",
+        "Description": "助理教授 校长青年学者",
+        "Email": "yujiangfan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "杨升浩",
+        "Description": "助理教授 校长青年学者",
+        "Email": "shyang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "尹峰",
+        "Description": "助理教授 校长青年学者、国际电气及电子工程师学会高级会员",
+        "Email": "yinfeng@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张明建",
+        "Description": "助理教授",
+        "Email": "zhangmingjian@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "卓晓璐",
+        "Description": "助理教授",
+        "Email": "zhuoxiaolu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张焯然",
+        "Description": "助理教授",
+        "Email": "zhangzhuoran@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "赵征",
+        "Description": "助理教授 校长青年学者",
+        "Email": "zhaozheng@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱熹",
+        "Description": "助理教授 校长青年学者",
+        "Email": "zhuxi@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张祺",
+        "Description": "助理教授 助理院长（外事）、校长青年学者",
+        "Email": "qizhang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张功球",
+        "Description": "助理教授",
+        "Email": "zhanggongqiu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "郑庆彬",
+        "Description": "助理教授 校长青年学者",
+        "Email": "zhengqingbin@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱贺",
+        "Description": "助理教授",
+        "Email": "zhuhe@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈冠英",
+        "Description": "研究助理教授",
+        "Email": "chenguanying@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈怿",
+        "Description": "研究助理教授",
+        "Email": "yichen@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "胡盛清",
+        "Description": "研究助理教授",
+        "Email": "hushengqing@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "冀晓强",
+        "Description": "研究助理教授",
+        "Email": "jixiaoqiang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "梁高琪",
+        "Description": "研究助理教授",
+        "Email": "lianggaoqi@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "明小庆",
+        "Description": "研究助理教授",
+        "Email": "mingxiaoqing@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "涂文广",
+        "Description": "研究助理教授",
+        "Email": "tuwenguang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王兆瑞",
+        "Description": "研究助理教授",
+        "Email": "wangzhaorui@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "林立德",
+        "Description": "副教授（教学）",
+        "Email": "kinleylam@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄俊波",
+        "Description": "助理教授（教学）",
+        "Email": "mariohuang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "凌晗",
+        "Description": "助理教授（教学） 助理院长（学生事务）",
+        "Email": "linghan@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "蔡小强",
+        "Description": "客座教授 香港工程师学会会士、国际系统与控制科学院院士",
+        "Email": "xqcai@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈长汶",
+        "Description": "客座教授 国际电气及电子工程师学会会士",
+        "Email": "chencw@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "程翔",
+        "Description": "客座教授",
+        "Email": "xiangcheng.86@gmail.com",
+        "College": "理工学院"
+    },
+    {
+        "Name": "黄宪达",
+        "Description": "客座教授 校长讲座教授",
+        "Email": "huanghsienda@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "TAKEO KANADE",
+        "Description": "客座教授",
+        "Email": "kanade@andrew.cmu.edu",
+        "College": "理工学院"
+    },
+    {
+        "Name": "林宙辰",
+        "Description": "客座教授",
+        "Email": "zlin@pku.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "梅涛",
+        "Description": "客座教授",
+        "Email": "zlin@pku.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "Bradley J. Nelson",
+        "Description": "客座教授",
+        "Email": "bnelson@ethz.ch",
+        "College": "理工学院"
+    },
+    {
+        "Name": "吴恒亮",
+        "Description": "客座教授",
+        "Email": "dickonng@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "于广军",
+        "Description": "客座教授",
+        "Email": "guangjunyu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "张磊",
+        "Description": "客座教授",
+        "Email": "leizhang@idea.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "朱宝亭",
+        "Description": "客座教授",
+        "Email": "btzhu@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "周少华",
+        "Description": "客座教授",
+        "Email": "zhoushaohua@ict.ac.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "陈刚",
+        "Description": "客座副教授 校长青年学者",
+        "Email": "chengang@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "李宗夷",
+        "Description": "客座副教授 校长青年学者",
+        "Email": "leetzongyi@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "刘国珍",
+        "Description": "客座副教授",
+        "Email": "liuguozhen@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "佟世璐",
+        "Description": "客座副教授",
+        "Email": "liuguozhen@cuhk.edu.cn",
+        "College": "理工学院"
+    },
+    {
+        "Name": "王潇朴",
+        "Description": "客座助理教授",
+        "Email": "wangxiaopu@cuhk.edu.cn",
+        "College": "理工学院"
+    }
+]

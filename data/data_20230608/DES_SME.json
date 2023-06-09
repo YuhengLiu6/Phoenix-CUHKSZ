@@ -1,0 +1,716 @@
+[
+    {
+        "Name": "熊伟",
+        "Description": "学术院长；教授（普林斯顿大学）",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: wxiong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "艾春荣",
+        "Description": "经济学教授、校长讲座教授；深圳高等金融研究院副院长",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: chunrongai@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "洪伟萍",
+        "Description": "教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: irishung@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "贾建民",
+        "Description": "校长讲座教授；深圳高等金融研究院市场学理学硕士项目主任",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: jmjia@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "舒涛",
+        "Description": "协理副校长（行政事务）；校长讲座教授；深圳高等金融研究院副院长、资本市场和资产管理研究中心主任",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: shutao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "佟世璐",
+        "Description": "副院长、教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: tongshilu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "王丛",
+        "Description": "协理副校长（学生事务）；校长讲座教授；逸夫书院院长；深圳高等金融研究院副院长、管理学理学硕士项目主任、公司治理和股权激励研究中心主任",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: wangcong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "王健",
+        "Description": "教授；深圳高等金融研究院副院长、FEMBA/EDP项目主任、宏观金融稳定与创新研究中心主任、香港深圳联合金融研究中心联席主任",
+        "Research Area": "学术领域: 经济, 金融",
+        "Email": "电子邮件: jianwang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "叶立新",
+        "Description": "教授（俄亥俄州立大学）",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: lixinye@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张博辉",
+        "Description": "执行院长、校长讲座教授；深圳高等金融研究院金融科技与社会金融研究中心主任；深圳数据经济研究院副院长",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: bohuizhang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张田余",
+        "Description": "校长讲座教授；深圳数据经济研究院副院长；深圳高等金融研究院制度与资本市场研究中心主任、会计理学硕士项目主任",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: zhangtianyu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "赵建良",
+        "Description": "校长讲座教授；深圳高等金融研究院区块链与智能科技中心主任、信息管理与商业分析理学硕士项目主任（IM方向）、数据科学理学硕士项目联合主任",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: leonzhao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "曹纪胤",
+        "Description": "副教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: jiyincao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "范杰信（Michael FERGUSON）",
+        "Description": "高级副院长（教学与教育），副教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: ferguson@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李丹",
+        "Description": "副教授；金融学理学硕士项目主任，深圳高等金融研究院资本市场和资产管理研究中心副主任",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: lidan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "林小苗（Powpaka, Samart）",
+        "Description": "副教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: powpaka@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "刘斌",
+        "Description": "副教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: binliu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "苗斌",
+        "Description": "副教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: miaobin@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "申睿",
+        "Description": "副教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: ruishen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "苏丽文",
+        "Description": "副教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: stellaso@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "谭安厚",
+        "Description": "副教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: hughthomas@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "王竞奇",
+        "Description": "研究生院助理院长；副教授；深圳高等金融研究院信息管理与商业分析理学硕士项目主任（BA方向）",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: wangjingqi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "叶海春",
+        "Description": "副教授；深圳高等金融研究院经济学理学硕士项目主任",
+        "Research Area": "学术领域: 经济, 金融",
+        "Email": "电子邮件: yehaichun@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张劲帆",
+        "Description": "副教授，博士项目主任，宏观金融稳定与创新研究中心联席主任",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: zhangjinfan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "Khoo, Lawrence",
+        "Description": "助理院长（本科生课程），副教授（教学）",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: lawrencekhoo@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "詹凌静",
+        "Description": "副教授（教学）",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: lingjingzhan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "钟子毅",
+        "Description": "副教授（教学）",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: barickchung@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "包卓兰",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: baozhuolan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "曹毅",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: caoyi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "陈琛",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: chenchen2020@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "陈齐辉",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: qihuichen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "陈睿",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: davidchen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "陈思",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: sichen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "陈雯",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: wenchen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "邓淇元",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: dengqiyuan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "狄晨晨",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: dichenchen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "丁一",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: yiding@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "窦立宇",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: douliyu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "宫郑",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: gongzheng@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "何捷双",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: jieshuanghe@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "侯宸羽",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: houchenyu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "胡中琛",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: huzhongchen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "黄侃元",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: huangkanyuan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "黄日环",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: huangrihuan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "黄宗博",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: zongbohuang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "惠珅",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: huishen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "江洋子",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: yangzijiang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "晋润晧",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: jinyoonho@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李诚官",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: leesungkwan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李明",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: liming2020@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李琦",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: liqi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李泽昊",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: lizehao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "林炜",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: linwei@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "林雨菲",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: linyufei@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "柳承妍",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: yooseungyeon@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "刘洪七",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: hongqiliu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "刘娜",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: liuna@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "路广利",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: luguangli@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "鲁家琦",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: lujiaqi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "明旒",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: mingliu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "牛超",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: andyniu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "潘祺",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: panqi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "朴钟汉",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: parkjonghan@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "邱鹏嘉",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: chiupengchia@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "Reani, Manuele",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: reanimanuele@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "任启天",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: renqitian@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "任逍",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: renxiao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "沈玧志",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: yoonjishim@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "石铎",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: shiduo@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "宋阳波",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: yangbosong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "隋鹏飞",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: psui@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "王晚新",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: wangwanxin@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "汪晓樵",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: xiaoqiaowang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "王亚坤",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: wangyakun@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "吴诗佳",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: wushijia@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "吴涛",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: wutao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "肖丰隆",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: xiaofenglong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "谢聪",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: richardxie@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "许士元",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: martinshu@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "徐思闯",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: xusichuang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "杨黎",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: yangli5@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "杨文豪",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: yangwenhao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "叶琳琳",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: linlinye@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "叶帅",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: yeshuai@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张成龙",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: zhangchenglong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张皓昭",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: zhanghaozhao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张琳弋",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: zhanglinyi@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张鹏",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: zhangpeng@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张强",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: zhangqiang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张容榕",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: zhangrongrong@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "张一鸣",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 信息系统与运营管理",
+        "Email": "电子邮件: zhangyiming@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "赵珅",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: shenzhao@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "赵雅博",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 金融",
+        "Email": "电子邮件: zhaoyabo@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "郑达豪",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: tehtathow@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "郑艺颖",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 经济",
+        "Email": "电子邮件: emilyzheng@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "邹雯莉",
+        "Description": "助理教授",
+        "Research Area": "学术领域: 市场营销",
+        "Email": "电子邮件: lilizou@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "李玫",
+        "Description": "助理教授（教学）",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: limei@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "卢一飞",
+        "Description": "助理教授（教学）",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: luyifei@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "孙聪",
+        "Description": "助理教授（教学）",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: congsun@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "曾玮邦",
+        "Description": "助理教授（教学）",
+        "Research Area": "学术领域: 会计",
+        "Email": "电子邮件: wilburntsang@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "章雯",
+        "Description": "助理教授（教学）",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: zhangwen@cuhk.edu.cn",
+        "College": "经管学院"
+    },
+    {
+        "Name": "福鑫（Alessandro Golombiewski Teixeira）",
+        "Description": "客座教授",
+        "Research Area": "学术领域: 管理",
+        "Email": "电子邮件: alessandro@cuhk.edu.cn",
+        "College": "经管学院"
+    }
+]

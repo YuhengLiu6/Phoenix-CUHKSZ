@@ -1,0 +1,450 @@
+[
+    {
+        "question": "请介绍唐本忠教授",
+        "answer": "校长学勤讲座教授 院长、中国科学院院士、亚太材料科学院院士、发展中国家世界科学院院士 tangbenz@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍崔曙光教授",
+        "answer": "校长学勤讲座教授 国际电气及电子工程师学会会士 shuguangcui@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄乃正教授",
+        "answer": "校长学勤讲座教授 中国科学院院士、发展中世界科学院院士、香港科学院院士 hncwong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍帅志刚教授",
+        "answer": "校长学勤讲座教授 副院长（科研）、比利时皇家科学院外籍院士、欧洲科学院外籍院士、国际量子分子科学院院士 shuaizhigang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍唐叔贤教授",
+        "answer": "校长学勤讲座教授 中国科学院院士、发展中国家科学院院士 tongsy@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张瑞教授",
+        "answer": "校长学勤讲座教授 新加坡工程院院士，国际电气及电子工程师学会会士、全球高被引科学家 rzhang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄劲松教授",
+        "answer": "校长讲座教授 huangjingsong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄建伟教授",
+        "answer": "校长讲座教授 协理副校长（拓展事务）、国际电气及电子工程师学会会士、全球高被引科学家 jianweihuang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍罗智泉教授",
+        "answer": "校长讲座教授 中国工程院外籍院士、加拿大皇家科学院院士 pengyanni@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍倪维明教授",
+        "answer": "校长讲座教授 niweiming@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍裴有康教授",
+        "answer": "校长讲座教授 美国国家工程院院士、麦克奈特杰出教授 davidpui@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王筱平教授",
+        "answer": "校长讲座教授 wangxiaoping@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王学锋教授",
+        "answer": "校长讲座教授 研究生院院长 wangxf@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍徐扬生教授",
+        "answer": "校长讲座教授 中国工程院院士、国际欧亚科学院院士、国际宇航科学院院士、国际电机及电子工程师学会会士、香港工程科学院院士、香港工程师学会院士 ysxu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱世平教授",
+        "answer": "校长讲座教授 加拿大工程院院士、加拿大皇家科学院院士、发展中国家科学院院士 shipingzhu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍甘培润教授",
+        "answer": "教授 国际电气及电子工程师学会（IEEE）会士、亚太人工智能学会（AAIA）会士、新加坡工程学会（IES）会士 pykam@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍李东教授",
+        "answer": "教授 国际电气及电子工程师学会会士、香港工程师学会会士 tonylee@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍梁灏锵教授",
+        "answer": "教授 英国计算机协会会士、皇家文艺制造商业协会会士 clementleung@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍梁永波教授",
+        "answer": "教授 英国皇家化学会会士 kevinleung@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍潘兴斌教授",
+        "answer": "教授 panxingbin@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱军教授",
+        "answer": "教授 jun.zhu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍周艳教授",
+        "answer": "教授 校长学者、英国皇家物理学会会士 zhouyan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍侯勇教授",
+        "answer": "副教授 houyong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄川教授",
+        "answer": "副教授 校长青年学者 huangchuan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄锐教授",
+        "answer": "副教授 校长青年学者 ruihuang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍潘文安教授",
+        "answer": "副教授 simonpun@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍彭小水教授",
+        "answer": "副教授 校长青年学者 xspeng@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍沈颖祺教授",
+        "answer": "副教授 wkshum@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王明锋教授",
+        "answer": "副教授 校长学者 wangmingfeng@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍肖博文教授",
+        "answer": "副教授 执行副院长、校长学者 xiaobowen@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍许杰教授",
+        "answer": "副教授 助理院长（科研）、校长学者 xujie@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张建辉教授",
+        "answer": "副教授 zhangjianhui@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱建教授",
+        "answer": "副教授 zhujian@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张昭宇教授",
+        "answer": "副教授 校长青年学者 zhangzy@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张纵辉教授",
+        "answer": "副教授 助理院长（教育）、校长学者、国际电气及电子工程师学会会士 changtsunghui@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍赵俊华教授",
+        "answer": "副教授 校长青年学者 zhaojunhua@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈廷欢教授",
+        "answer": "助理教授 chentinghuan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈仲欣教授",
+        "answer": "助理教授 chenzhongxin@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈添锴教授",
+        "answer": "助理教授 chentiankai@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈梓坍教授",
+        "answer": "助理教授 校长青年学者 chenztan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈元教授",
+        "answer": "助理教授 chenyuan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍蔡玮教授",
+        "answer": "助理教授 校长青年学者 caiwei@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈俊挺教授",
+        "answer": "助理教授 校长青年学者 juntingc@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍龚世华教授",
+        "answer": "助理教授 gongshihua@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍韩晓光教授",
+        "answer": "助理教授 校长青年学者 hanxiaoguang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍贺冬冬教授",
+        "answer": "助理教授 hedongdong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄家裕教授",
+        "answer": "助理教授 danielwong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍蒋招立教授",
+        "answer": "助理教授 zljiang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍冀东教授",
+        "answer": "助理教授 校长青年学者 jidong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍纪冬旭教授",
+        "answer": "助理教授 jidongxu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍柯志海教授",
+        "answer": "助理教授 校长青年学者 kezhihai@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍罗才华教授",
+        "answer": "助理教授 luocaihua@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍李怀光教授",
+        "answer": "助理教授 lihuaiguang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍雷顺波教授",
+        "answer": "助理教授 leishunbo@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍罗元教授",
+        "answer": "助理教授 luoyuan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍刘寻教授",
+        "answer": "助理教授 校长青年学者 liuxun@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍林天麟教授",
+        "answer": "助理教授 校长青年学者、国际电气及电子工程师学会高级会员 tllam@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍李镇教授",
+        "answer": "助理教授 校长青年学者 lizhen@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍李玉田教授",
+        "answer": "助理教授 liyutian@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍丘子杰教授",
+        "answer": "助理教授 校长青年学者 zijieqiu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍钱辉环教授",
+        "answer": "助理教授 hhqian@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍沈闓明教授",
+        "answer": "助理教授 shenkaiming@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍孙正隆教授",
+        "answer": "助理教授 sunzhenglong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍唐晓莹教授",
+        "answer": "助理教授 tangxiaoying@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王方鑫教授",
+        "answer": "助理教授 校长青年学者 wangfangxin@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王东教授",
+        "answer": "助理教授 wangdong@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王璐教授",
+        "answer": "助理教授 校长青年学者 lwang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍吴辰晔教授",
+        "answer": "助理教授 校长青年学者 chenyewu@yeah.net 理工学院"
+    },
+    {
+        "question": "请介绍吴亮教授",
+        "answer": "助理教授 校长青年学者 wuliang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍解碧野教授",
+        "answer": "助理教授 xiebiye@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍颜骏教授",
+        "answer": "助理教授 yanjun@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍俞江帆教授",
+        "answer": "助理教授 校长青年学者 yujiangfan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍杨升浩教授",
+        "answer": "助理教授 校长青年学者 shyang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍尹峰教授",
+        "answer": "助理教授 校长青年学者、国际电气及电子工程师学会高级会员 yinfeng@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张明建教授",
+        "answer": "助理教授 zhangmingjian@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍卓晓璐教授",
+        "answer": "助理教授 zhuoxiaolu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张焯然教授",
+        "answer": "助理教授 zhangzhuoran@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍赵征教授",
+        "answer": "助理教授 校长青年学者 zhaozheng@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱熹教授",
+        "answer": "助理教授 校长青年学者 zhuxi@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张祺教授",
+        "answer": "助理教授 助理院长（外事）、校长青年学者 qizhang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张功球教授",
+        "answer": "助理教授 zhanggongqiu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍郑庆彬教授",
+        "answer": "助理教授 校长青年学者 zhengqingbin@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱贺教授",
+        "answer": "助理教授 zhuhe@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈冠英教授",
+        "answer": "研究助理教授 chenguanying@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈怿教授",
+        "answer": "研究助理教授 yichen@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍胡盛清教授",
+        "answer": "研究助理教授 hushengqing@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍冀晓强教授",
+        "answer": "研究助理教授 jixiaoqiang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍梁高琪教授",
+        "answer": "研究助理教授 lianggaoqi@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍明小庆教授",
+        "answer": "研究助理教授 mingxiaoqing@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍涂文广教授",
+        "answer": "研究助理教授 tuwenguang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王兆瑞教授",
+        "answer": "研究助理教授 wangzhaorui@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍林立德教授",
+        "answer": "副教授（教学） kinleylam@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍黄俊波教授",
+        "answer": "助理教授（教学） mariohuang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍凌晗教授",
+        "answer": "助理教授（教学） 助理院长（学生事务） linghan@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍蔡小强教授",
+        "answer": "客座教授 香港工程师学会会士、国际系统与控制科学院院士 xqcai@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈长汶教授",
+        "answer": "客座教授 国际电气及电子工程师学会会士 chencw@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍程翔教授",
+        "answer": "客座教授 xiangcheng.86@gmail.com 理工学院"
+    },
+    {
+        "question": "请介绍黄宪达教授",
+        "answer": "客座教授 校长讲座教授 huanghsienda@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍TAKEO KANADE教授",
+        "answer": "客座教授 kanade@andrew.cmu.edu 理工学院"
+    },
+    {
+        "question": "请介绍林宙辰教授",
+        "answer": "客座教授 zlin@pku.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍梅涛教授",
+        "answer": "客座教授 zlin@pku.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍Bradley J. Nelson教授",
+        "answer": "客座教授 bnelson@ethz.ch 理工学院"
+    },
+    {
+        "question": "请介绍吴恒亮教授",
+        "answer": "客座教授 dickonng@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍于广军教授",
+        "answer": "客座教授 guangjunyu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍张磊教授",
+        "answer": "客座教授 leizhang@idea.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍朱宝亭教授",
+        "answer": "客座教授 btzhu@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍周少华教授",
+        "answer": "客座教授 zhoushaohua@ict.ac.cn 理工学院"
+    },
+    {
+        "question": "请介绍陈刚教授",
+        "answer": "客座副教授 校长青年学者 chengang@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍李宗夷教授",
+        "answer": "客座副教授 校长青年学者 leetzongyi@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍刘国珍教授",
+        "answer": "客座副教授 liuguozhen@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍佟世璐教授",
+        "answer": "客座副教授 liuguozhen@cuhk.edu.cn 理工学院"
+    },
+    {
+        "question": "请介绍王潇朴教授",
+        "answer": "客座助理教授 wangxiaopu@cuhk.edu.cn 理工学院"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "question": "请介绍唐文方教授",
+        "answer": "教授 人文社科学院院长。校长讲座教授、著名政治学家，曾任香港科技大学社会科学部主任、讲席教授，美国爱荷华大学政治学系主任；《前沿政治科学-比较治理》主编；多部学术专著和编著已由牛津大学出版社、剑桥大学出版社以及斯坦福大学出版社等出版 tangwenfang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈永勤教授",
+        "answer": "教授 思廷书院院长。全球Top 2%顶尖科学家、环球中国环境专家协会会长、中国环境资源与生态保育学会副理事长、深圳市城市规划委员会非公务委员等 ydavidchen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍顾阳教授",
+        "answer": "教授 学勤书院院长。美国语言学会会员、国际中国语言学会终身会员、香港语言学会终身会员 yanggu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍郝雨凡教授",
+        "answer": "教授 人文社科学院副院长。校长讲座教授、著名国际问题专家、澳门思路智库首任理事长、曾任哈佛大学国际问题中心麦克亚瑟研究员，美国科盖特大学政治科学教授及亚洲研究何鸿毅讲座教授 haoyufan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍吕宗力教授",
+        "answer": "教授 道扬书院院长 luzongli@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Douglas ROBINSON教授",
+        "answer": "教授 曾任香港岭南大学唐天燊英文讲座教授兼英文系主任，主要翻译芬兰文学、戏剧和电影文学 drobinson@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍隋云教授",
+        "answer": "教授 人事部全国翻译资格(水平)考试专家委员会委员、曾任中欧高级译员培训中心副主任，美国西东大学商学院访问学者, 比利时欧盟翻译总司访问学者, 多次为国家元首，高级政府官员、企业高管及国际组织高层人士做交替传译或同声传译 suiyun@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍宋新宁教授",
+        "answer": "教授 让·莫内终身特聘教授、曾任比利时荷语布鲁塞尔自由大学孔子学院中方院长、中国人民大学国际关系学院副院长、中国人民大学欧洲问题研究中心主任 songxinning@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陶然教授",
+        "answer": "教授 中国高被引学者，在中国户籍、土地、住房改革等领域发挥了重要的政策影响，主持过两项国家自然科学基金重点项目 taoran@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王立弟教授",
+        "answer": "教授 人文社科学院副院长。曾任北京外国语大学高级翻译学院院长、国际大学翻译学院联合会（CIUTI）成员代表、深圳市高层次领军人才 wanglidi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王晓田教授",
+        "answer": "教授 美国南达科他州大学终身荣誉教授，国际心理科学学会会士 xtwang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍邢文教授",
+        "answer": "教授 校长讲座教授、全国首届优秀博士学位论文奖、第二届中国美术奖、美国国家人文基金会（NEH）中国人文学研究奖 xingwen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍郑永年教授",
+        "answer": "教授 校长讲座教授、国际事务研究院院长、前海国际事务研究院院长、罗特里奇出版社《中国政策丛书》主编、世界科技书局《当代中国研究丛书》共同主编、《国际中国研究杂志》共同创始主编 GCCS_Director@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍郑百重教授",
+        "answer": "教授 当代著名中国画家、历年作品曾获全国美展优秀奖、香港金牌奖、台湾金笔奖、日本众议院奖、日本艺术院奖、美国众议院艺术成就奖和教育成果奖、美国爱荷华市荣誉市民和加州欧西那市金钥匙奖 zhengbaizhong@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍朱纯深教授",
+        "answer": "教授 《中国翻译》和The Journal of Interpreter and Translator Trainer编委和The Translator国际顾问委员会成员，曾三次获得宋淇翻译研究纪念奖 zhuchunshen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈可欣教授",
+        "answer": "副教授 clarachan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘锋教授",
+        "answer": "副教授 liufeng@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李兰教授",
+        "answer": "副教授 lanli@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李田园教授",
+        "answer": "副教授 litianyuan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍秦华教授",
+        "answer": "副教授 qinhuajames@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍YAP, Foong Ha教授",
+        "answer": "副教授 foonghayap@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张瓅文教授",
+        "answer": "副教授（教学） 翻译及同声传译硕士项目课程负责人 changliwen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Mark CRIMMINS教授",
+        "answer": "副教授（教学） markcrimmins@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Thomas D. CARROLL教授",
+        "answer": "副教授（教学） thomascarroll@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍邓扬舟教授",
+        "answer": "副教授（教学） dengyangzhou@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍龚文高教授",
+        "answer": "副教授（教学） 人文社科学院助理院长。有长期的国内外不同高校以及国外教学企业的工作经历，在一线教学、行政管理、学术研究、教育企业运作等多方面均有丰富的历练 gongwengao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Gautam GHOSH教授",
+        "answer": "副教授（教学） gautamghosh@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍韩雨晨教授",
+        "answer": "副教授（教学） hanyuchen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍侯朔炤教授",
+        "answer": "副教授（教学） shuozhaohou@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍姜丽丽教授",
+        "answer": "副教授（教学） jianglili@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Charles H. KIEFFER教授",
+        "answer": "副教授（教学） charleskieffer@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍林庆舟教授",
+        "answer": "副教授（教学） brendanhclam@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李潇雨教授",
+        "answer": "副教授（教学） lixiaoyu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Matsunaga Genjiro教授",
+        "answer": "副教授（教学） gmatsunaga@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Michael Geoffrey SALTER教授",
+        "answer": "副教授（教学） michaelsalter@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Melvin STERNE教授",
+        "answer": "副教授（教学） melvinsterne@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Stavroula TSIROGIANNI教授",
+        "answer": "副教授（教学） stsirogianni@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍邹婧教授",
+        "answer": "副教授（教学） zoujing@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍赵璞嵩教授",
+        "answer": "副教授（教学） pusongzhao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍曹洪健教授",
+        "answer": "助理教授 caohongjian@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈纯教授",
+        "answer": "助理教授 chenchun@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍党和苹教授",
+        "answer": "助理教授 dangheping@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍段啸林教授",
+        "answer": "助理教授 duanxiaolin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍何金波教授",
+        "answer": "助理教授 hejinbo@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍许美金教授",
+        "answer": "助理教授 jessiekoh@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍林志成教授",
+        "answer": "助理教授 zclin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Anton MALKIN教授",
+        "answer": "助理教授 antonmalkin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍许晓敏教授",
+        "answer": "助理教授 xuxiaomin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍阎述良教授",
+        "answer": "助理教授 karlyan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍于是教授",
+        "answer": "助理教授 yushi1129@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Timothy KERSWELL教授",
+        "answer": "高级讲师 timothykerswell@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘津教授",
+        "answer": "高级讲师 liujin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Matthew K.C. BOOK教授",
+        "answer": "助理教授（教学） matthewbook@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Aurelien BOUCHER教授",
+        "answer": "助理教授（教学） aurelienboucher@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍白宗让教授",
+        "answer": "助理教授（教学） baizongrang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈小珍教授",
+        "answer": "助理教授（教学） chenxiaozhen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍曹德荣教授",
+        "answer": "助理教授（教学） dylancao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈山泉教授",
+        "answer": "助理教授（教学） chenshanquan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍曹蓓教授",
+        "answer": "助理教授（教学） bcao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍蔡一帆教授",
+        "answer": "助理教授（教学） caiyifan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈海瑞教授",
+        "answer": "助理教授（教学） harrychen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈奕含教授",
+        "answer": "助理教授（教学） chenyihan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Evander Lewis PRICE教授",
+        "answer": "助理教授（教学） evanderprice@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍郭昕教授",
+        "answer": "助理教授（教学） guoxin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍洪明雁教授",
+        "answer": "助理教授（教学） mingyanhong@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍何薇教授",
+        "answer": "助理教授（教学） hewei@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍黄永顺教授",
+        "answer": "助理教授（教学） wongwingshun@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Hyun Jung JOO教授",
+        "answer": "助理教授（教学） joohyunjung@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍蒋昊教授",
+        "answer": "助理教授（教学） jianghao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍金佳教授",
+        "answer": "助理教授（教学） jinjia@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Christopher KLUZ教授",
+        "answer": "助理教授（教学） christopherkluz@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍卢锦明教授",
+        "answer": "助理教授（教学） tonylo@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘冠岩教授",
+        "answer": "助理教授（教学） liukuanyen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘畅教授",
+        "answer": "助理教授（教学） liuchang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李雪石教授",
+        "answer": "助理教授（教学） 讲师 lixueshi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍雷仕伟教授",
+        "answer": "助理教授（教学） leishiwei@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘黎明教授",
+        "answer": "助理教授（教学） liuliming@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘志爱教授",
+        "answer": "助理教授（教学） 讲师 zhiailiu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘梦彬教授",
+        "answer": "助理教授（教学） liumengbin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍林成川教授",
+        "answer": "助理教授（教学） linchengchuan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍廖睿智教授",
+        "answer": "助理教授（教学） rzliao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李博寒教授",
+        "answer": "助理教授（教学） libohan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍彭永昌教授",
+        "answer": "助理教授（教学） pengyongchang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍宋红彬教授",
+        "answer": "助理教授（教学） songhongbin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Lucas SCRIPTER教授",
+        "answer": "助理教授（教学） lucasscripter@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王沁教授",
+        "answer": "助理教授（教学） wangqin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王凯希教授",
+        "answer": "助理教授（教学） wangkaixi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍云天恒教授",
+        "answer": "助理教授（教学） wilsonwoon@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍谢莹莹教授",
+        "answer": "助理教授（教学） xieyingying@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍肖扬羽教授",
+        "answer": "助理教授（教学） shirleyxiao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍肖扬教授",
+        "answer": "助理教授（教学） 学术英文讲师 xiaoyang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍余鹏教授",
+        "answer": "助理教授（教学） marcoyu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍姚瑶教授",
+        "answer": "助理教授（教学） yaoyao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍杨旸教授",
+        "answer": "助理教授（教学） 讲师 yangyang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍杨笑吟教授",
+        "answer": "助理教授（教学） yangxiaoyin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍杨榕教授",
+        "answer": "助理教授（教学） yangrong@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍左旭然教授",
+        "answer": "助理教授（教学） zuoxuran@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍赵紫薇教授",
+        "answer": "助理教授（教学） zhaoziwei@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍赵蕊娟教授",
+        "answer": "助理教授（教学） zhaoruijuan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍庄颖异教授",
+        "answer": "助理教授（教学） zhuangyingyi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张舒音教授",
+        "answer": "助理教授（教学） zhangshuyin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张瑞教授",
+        "answer": "助理教授（教学） 讲师 rzhang99@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张延杰教授",
+        "answer": "助理教授（教学） 体育讲师 zhangyanjie@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张齐迎教授",
+        "answer": "助理教授（教学） qiyingzhang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Mona BAKER教授",
+        "answer": "客座教授 客座教授 mona.baker@manchester.ac.uk 人文社科学院"
+    },
+    {
+        "question": "请介绍James A. Cartreine教授",
+        "answer": "客座教授 jcartreine@gmail.com 人文社科学院"
+    },
+    {
+        "question": "请介绍Edwin Gentzler教授",
+        "answer": "客座教授 客座教授 gentzler@complit.umass.edu 人文社科学院"
+    },
+    {
+        "question": "请介绍范息涛教授",
+        "answer": "客座教授 xtfan@cuhk.edu.hk 人文社科学院"
+    },
+    {
+        "question": "请介绍Daniel GILE教授",
+        "answer": "客座教授 客座教授 daniel.gile@yahoo.com 人文社科学院"
+    },
+    {
+        "question": "请介绍Theo HERMANS教授",
+        "answer": "客座教授 客座教授 t.hermans@ucl.ac.uk 人文社科学院"
+    },
+    {
+        "question": "请介绍黄力强教授",
+        "answer": "客座教授 客座教授 lqhuang@psy.cuhk.edu.hk 人文社科学院"
+    },
+    {
+        "question": "请介绍Jeremy MUNDAY教授",
+        "answer": "客座教授 客座教授 j.munday@leeds.ac.uk 人文社科学院"
+    },
+    {
+        "question": "请介绍钱铭怡教授",
+        "answer": "客座教授 qmy@pku.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Prerna BAKSHI教授",
+        "answer": "讲师 bakshiprerna@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈月教授",
+        "answer": "讲师 chenyue@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈品希教授",
+        "answer": "讲师 chenpinhsi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈汕聪教授",
+        "answer": "讲师 chenshancong@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈冰茹教授",
+        "answer": "讲师 chenbingru@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陈琴教授",
+        "answer": "讲师 chenqin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Corinne DORIA教授",
+        "answer": "讲师 corinnedoria@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍甘麟翰教授",
+        "answer": "讲师 ganlinhan@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍胡可教授",
+        "answer": "讲师 huke@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍胡晓倩教授",
+        "answer": "讲师 huxiaoqian@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Serge HOEFEIJZERS教授",
+        "answer": "讲师 讲师 sergehoefeijzers@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍姜雯教授",
+        "answer": "讲师 jiangwen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍季作玮教授",
+        "answer": "讲师 jiangwen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘迎昕教授",
+        "answer": "讲师 liuyingxin@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍罗怿教授",
+        "answer": "讲师 luoyi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍吕陈童教授",
+        "answer": "讲师 luchentong@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍林宝仪教授",
+        "answer": "讲师 linbaoyi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李默教授",
+        "answer": "讲师 limo@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍梁慧玲教授",
+        "answer": "讲师 lianghuiling@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李丹凌教授",
+        "answer": "讲师 讲师 lidanling@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘晓华教授",
+        "answer": "讲师 liuxiaohua@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍刘瑛教授",
+        "answer": "讲师 liuying@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Wesley LOCKHART教授",
+        "answer": "讲师 wesleyjames@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍李颖瑜教授",
+        "answer": "讲师 liyingyu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍吕识途教授",
+        "answer": "讲师 lushitu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Maciek Czerkawski教授",
+        "answer": "讲师 maciejczerkawski@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Matthew MORGAN-JAMES教授",
+        "answer": "讲师 matthewjames@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍莫广明教授",
+        "answer": "讲师 moguangming@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍马洁琪教授",
+        "answer": "讲师 majieqi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍毛迪教授",
+        "answer": "讲师 maodi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍马程浩教授",
+        "answer": "讲师 体育讲师 machenghao@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍聂翼露教授",
+        "answer": "讲师 讲师 nieyilu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍潘珏教授",
+        "answer": "讲师 panjue@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍彭丽芳教授",
+        "answer": "讲师 penglifang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍庞慧教授",
+        "answer": "讲师 panghui@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍屈静如教授",
+        "answer": "讲师 qujingru@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Colum RUANE教授",
+        "answer": "讲师 讲师 columruane@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍Kevin R. SMITH教授",
+        "answer": "讲师 kevinsmith@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍谭晓莹教授",
+        "answer": "讲师 tanxiaoying@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍陶桢教授",
+        "answer": "讲师 taozhen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王超教授",
+        "answer": "讲师 alecwang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王红梅教授",
+        "answer": "讲师 wanghongmei@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王薛时教授",
+        "answer": "讲师 wangxueshi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍John Robert WILLIAMS教授",
+        "answer": "讲师 讲师 jrwilliams@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍巫依阳教授",
+        "answer": "讲师 wuyiyang@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王倩教授",
+        "answer": "讲师 讲师 wangqian@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王菲娅教授",
+        "answer": "讲师 wangfeiya@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王琛教授",
+        "answer": "讲师 wangchen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王秋晨教授",
+        "answer": "讲师 wangqiuchen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍王纯教授",
+        "answer": "讲师 体育讲师 wangchun@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍夏思宸教授",
+        "answer": "讲师 xiasichen@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍衣慎思教授",
+        "answer": "讲师 yishensi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍杨婕教授",
+        "answer": "讲师 yangjie@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍尹孟杰教授",
+        "answer": "讲师 yinmengjie@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍杨彦妮教授",
+        "answer": "讲师 yangyanni@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍应佳教授",
+        "answer": "讲师 yingjia@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张俊夫教授",
+        "answer": "讲师 yingjia@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张弘慧教授",
+        "answer": "讲师 zhanghonghui@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张缪斯教授",
+        "answer": "讲师 zhangmiaosi@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍周漫璐教授",
+        "answer": "讲师 zhoumanlu@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍周波教授",
+        "answer": "讲师 讲师 zhoubo@cuhk.edu.cn 人文社科学院"
+    },
+    {
+        "question": "请介绍张萍教授",
+        "answer": "讲师 zhangping18@cuhk.edu.cn 人文社科学院"
+    }
+]

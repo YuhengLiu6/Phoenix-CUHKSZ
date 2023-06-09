@@ -1,0 +1,410 @@
+[
+    {
+        "question": "请介绍熊伟教授",
+        "answer": "学术院长；教授（普林斯顿大学） 学术领域: 金融 电子邮件: wxiong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍艾春荣教授",
+        "answer": "经济学教授、校长讲座教授；深圳高等金融研究院副院长 学术领域: 经济 电子邮件: chunrongai@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍洪伟萍教授",
+        "answer": "教授 学术领域: 市场营销 电子邮件: irishung@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍贾建民教授",
+        "answer": "校长讲座教授；深圳高等金融研究院市场学理学硕士项目主任 学术领域: 市场营销 电子邮件: jmjia@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍舒涛教授",
+        "answer": "协理副校长（行政事务）；校长讲座教授；深圳高等金融研究院副院长、资本市场和资产管理研究中心主任 学术领域: 金融 电子邮件: shutao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍佟世璐教授",
+        "answer": "副院长、教授 学术领域: 信息系统与运营管理 电子邮件: tongshilu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍王丛教授",
+        "answer": "协理副校长（学生事务）；校长讲座教授；逸夫书院院长；深圳高等金融研究院副院长、管理学理学硕士项目主任、公司治理和股权激励研究中心主任 学术领域: 金融 电子邮件: wangcong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍王健教授",
+        "answer": "教授；深圳高等金融研究院副院长、FEMBA/EDP项目主任、宏观金融稳定与创新研究中心主任、香港深圳联合金融研究中心联席主任 学术领域: 经济, 金融 电子邮件: jianwang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍叶立新教授",
+        "answer": "教授（俄亥俄州立大学） 学术领域: 经济 电子邮件: lixinye@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张博辉教授",
+        "answer": "执行院长、校长讲座教授；深圳高等金融研究院金融科技与社会金融研究中心主任；深圳数据经济研究院副院长 学术领域: 金融 电子邮件: bohuizhang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张田余教授",
+        "answer": "校长讲座教授；深圳数据经济研究院副院长；深圳高等金融研究院制度与资本市场研究中心主任、会计理学硕士项目主任 学术领域: 会计 电子邮件: zhangtianyu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍赵建良教授",
+        "answer": "校长讲座教授；深圳高等金融研究院区块链与智能科技中心主任、信息管理与商业分析理学硕士项目主任（IM方向）、数据科学理学硕士项目联合主任 学术领域: 信息系统与运营管理 电子邮件: leonzhao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍曹纪胤教授",
+        "answer": "副教授 学术领域: 管理 电子邮件: jiyincao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍范杰信（Michael FERGUSON）教授",
+        "answer": "高级副院长（教学与教育），副教授 学术领域: 会计 电子邮件: ferguson@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李丹教授",
+        "answer": "副教授；金融学理学硕士项目主任，深圳高等金融研究院资本市场和资产管理研究中心副主任 学术领域: 金融 电子邮件: lidan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍林小苗（Powpaka, Samart）教授",
+        "answer": "副教授 学术领域: 市场营销 电子邮件: powpaka@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍刘斌教授",
+        "answer": "副教授 学术领域: 经济 电子邮件: binliu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍苗斌教授",
+        "answer": "副教授 学术领域: 会计 电子邮件: miaobin@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍申睿教授",
+        "answer": "副教授 学术领域: 会计 电子邮件: ruishen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍苏丽文教授",
+        "answer": "副教授 学术领域: 市场营销 电子邮件: stellaso@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍谭安厚教授",
+        "answer": "副教授 学术领域: 金融 电子邮件: hughthomas@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍王竞奇教授",
+        "answer": "研究生院助理院长；副教授；深圳高等金融研究院信息管理与商业分析理学硕士项目主任（BA方向） 学术领域: 信息系统与运营管理 电子邮件: wangjingqi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍叶海春教授",
+        "answer": "副教授；深圳高等金融研究院经济学理学硕士项目主任 学术领域: 经济, 金融 电子邮件: yehaichun@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张劲帆教授",
+        "answer": "副教授，博士项目主任，宏观金融稳定与创新研究中心联席主任 学术领域: 金融 电子邮件: zhangjinfan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍Khoo, Lawrence教授",
+        "answer": "助理院长（本科生课程），副教授（教学） 学术领域: 经济 电子邮件: lawrencekhoo@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍詹凌静教授",
+        "answer": "副教授（教学） 学术领域: 市场营销 电子邮件: lingjingzhan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍钟子毅教授",
+        "answer": "副教授（教学） 学术领域: 经济 电子邮件: barickchung@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍包卓兰教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: baozhuolan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍曹毅教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: caoyi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍陈琛教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: chenchen2020@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍陈齐辉教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: qihuichen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍陈睿教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: davidchen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍陈思教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: sichen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍陈雯教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: wenchen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍邓淇元教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: dengqiyuan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍狄晨晨教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: dichenchen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍丁一教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: yiding@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍窦立宇教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: douliyu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍宫郑教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: gongzheng@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍何捷双教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: jieshuanghe@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍侯宸羽教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: houchenyu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍胡中琛教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: huzhongchen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍黄侃元教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: huangkanyuan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍黄日环教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: huangrihuan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍黄宗博教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: zongbohuang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍惠珅教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: huishen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍江洋子教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: yangzijiang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍晋润晧教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: jinyoonho@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李诚官教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: leesungkwan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李明教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: liming2020@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李琦教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: liqi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李泽昊教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: lizehao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍林炜教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: linwei@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍林雨菲教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: linyufei@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍柳承妍教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: yooseungyeon@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍刘洪七教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: hongqiliu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍刘娜教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: liuna@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍路广利教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: luguangli@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍鲁家琦教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: lujiaqi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍明旒教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: mingliu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍牛超教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: andyniu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍潘祺教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: panqi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍朴钟汉教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: parkjonghan@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍邱鹏嘉教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: chiupengchia@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍Reani, Manuele教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: reanimanuele@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍任启天教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: renqitian@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍任逍教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: renxiao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍沈玧志教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: yoonjishim@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍石铎教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: shiduo@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍宋阳波教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: yangbosong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍隋鹏飞教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: psui@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍王晚新教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: wangwanxin@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍汪晓樵教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: xiaoqiaowang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍王亚坤教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: wangyakun@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍吴诗佳教授",
+        "answer": "助理教授 学术领域: 会计 电子邮件: wushijia@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍吴涛教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: wutao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍肖丰隆教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: xiaofenglong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍谢聪教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: richardxie@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍许士元教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: martinshu@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍徐思闯教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: xusichuang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍杨黎教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: yangli5@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍杨文豪教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: yangwenhao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍叶琳琳教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: linlinye@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍叶帅教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: yeshuai@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张成龙教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: zhangchenglong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张皓昭教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: zhanghaozhao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张琳弋教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: zhanglinyi@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张鹏教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: zhangpeng@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张强教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: zhangqiang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张容榕教授",
+        "answer": "助理教授 学术领域: 管理 电子邮件: zhangrongrong@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍张一鸣教授",
+        "answer": "助理教授 学术领域: 信息系统与运营管理 电子邮件: zhangyiming@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍赵珅教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: shenzhao@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍赵雅博教授",
+        "answer": "助理教授 学术领域: 金融 电子邮件: zhaoyabo@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍郑达豪教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: tehtathow@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍郑艺颖教授",
+        "answer": "助理教授 学术领域: 经济 电子邮件: emilyzheng@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍邹雯莉教授",
+        "answer": "助理教授 学术领域: 市场营销 电子邮件: lilizou@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍李玫教授",
+        "answer": "助理教授（教学） 学术领域: 会计 电子邮件: limei@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍卢一飞教授",
+        "answer": "助理教授（教学） 学术领域: 会计 电子邮件: luyifei@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍孙聪教授",
+        "answer": "助理教授（教学） 学术领域: 管理 电子邮件: congsun@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍曾玮邦教授",
+        "answer": "助理教授（教学） 学术领域: 会计 电子邮件: wilburntsang@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍章雯教授",
+        "answer": "助理教授（教学） 学术领域: 管理 电子邮件: zhangwen@cuhk.edu.cn 经管学院"
+    },
+    {
+        "question": "请介绍福鑫（Alessandro Golombiewski Teixeira）教授",
+        "answer": "客座教授 学术领域: 管理 电子邮件: alessandro@cuhk.edu.cn 经管学院"
+    }
+]

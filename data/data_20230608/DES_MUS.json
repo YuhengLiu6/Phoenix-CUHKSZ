@@ -1,0 +1,260 @@
+[
+    {
+        "Name": "Krzysztof Jablonski",
+        "Description": " 著名钢琴家教授钢琴与键盘学术主任钢琴与键盘学部主任前肖邦音乐大学教授、音乐艺术名誉（永久）教授、波兰文化大使、杰出成就奖（波兰政府颁发）",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "金朕纮",
+        "Description": " 著名中提琴家教授室内乐学术主任室内乐学部主任",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "金平",
+        "Description": " 著名作曲家教授作曲理论学术主任作曲理论学部主任",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "徐惟聆",
+        "Description": " 著名小提琴家教授管弦乐学术主任管弦乐学部主任",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "胡咏言",
+        "Description": " 著名指挥家教授指挥学术主任指挥学部主任",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "石倚洁",
+        "Description": " 著名男高音歌唱家教授歌剧与声乐学术主任歌剧与声乐学部主任",
+        "Email": "krzysztofj@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "袁芳",
+        "Description": " 著名钢琴家教授钢琴与键盘学部副主任著名钢琴家、香港中文大学(深圳)音乐学院副院长、深圳青年音乐家协会副主席、贝森朵夫全球签约艺术家、中国阳光爱心大使（中国残联授予）、 “深圳青年五四奖章”获得者",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "余乐",
+        "Description": " 著名打击乐演奏家教授管弦乐学部副主任打击乐部门总监",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "张立萍",
+        "Description": " 著名女高音歌唱家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "朱慧玲",
+        "Description": " 著名女中音歌唱家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "刘嵩虎",
+        "Description": " 著名男中音歌唱家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "付妮",
+        "Description": " 视唱练耳专家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "沈洋",
+        "Description": " 著名低男中音歌唱家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "林大叶",
+        "Description": " 著名指挥家教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "Victor A. Vicente",
+        "Description": " 音乐学家副教授",
+        "Email": "yuanfang-mus@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "Michael Tsalka",
+        "Description": " 钢琴家助理教授",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "金卓晟",
+        "Description": " 作曲家助理教授",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "潘行紫旻",
+        "Description": " 作曲家助理教授",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "Edoardo Turbil",
+        "Description": " 钢琴家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "祝一萍",
+        "Description": " 艺术指导讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "王笛",
+        "Description": " 钢琴家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "李彪",
+        "Description": " 男高音歌唱家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "周旎",
+        "Description": " 女高音歌唱家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "文茗",
+        "Description": " 艺术指导讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "张越",
+        "Description": " 艺术指导讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "赵洺",
+        "Description": " 钢琴家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "陈逸秋",
+        "Description": " 大提琴演奏家讲师",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "张精冶",
+        "Description": " 著名小提琴家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "车恒君",
+        "Description": " 艺术指导",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "聂佳鹏",
+        "Description": " 大提琴家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "薛昱",
+        "Description": " 低音提琴演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "吴天遐",
+        "Description": " 圆号演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "衣丞",
+        "Description": " 单簧管演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "汤奇云",
+        "Description": " 长号演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "严琦",
+        "Description": " 长笛演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "莫班文",
+        "Description": " 巴松管演奏家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "许莹",
+        "Description": " 中提琴家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "霍添",
+        "Description": " 大提琴家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "罗旭",
+        "Description": " 艺术指导",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "原方启雄",
+        "Description": " 艺术指导",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "谢英彬",
+        "Description": " 合唱指挥",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "邓卓锐",
+        "Description": " 指挥家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    },
+    {
+        "Name": "刘宇",
+        "Description": " 指挥家",
+        "Email": "michaeltsalka@cuhk.edu.cn",
+        "College": "音乐学院"
+    }
+]

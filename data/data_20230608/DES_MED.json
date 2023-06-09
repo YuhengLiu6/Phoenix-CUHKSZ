@@ -1,0 +1,464 @@
+[
+    {
+        "name": "WARSHEL, Arieh",
+        "description": "2013 诺贝尔化学奖获得者、美国国家科学院院士、英国皇家化学学会荣誉会员",
+        "email": "电子邮件: warshel@usc.edu",
+        "college": "医学院"
+    },
+    {
+        "name": "KOBILKA, Brian",
+        "description": "2012诺贝尔化学奖获得者、美国国家科学院院士",
+        "email": "电子邮件: kobilka@stanford.edu",
+        "college": "医学院"
+    },
+    {
+        "name": "CIECHANOVER, Aaron",
+        "description": "2004诺贝尔化学奖获得者、美国科学院外籍院士、中国科学院外籍院士",
+        "email": "电子邮件: aaroncie@tx.technion.ac.il",
+        "college": "医学院"
+    },
+    {
+        "name": "郑仲煊",
+        "description": "加拿大健康科学院院士（CAHS）、香港中文大学（深圳）医学院创院院长、校长讲座教授、加拿大西安大略大学杰出荣誉教授、加拿大多伦多大学客席教授、加拿大医师领袖协会/医学学会印证高管医师 (CCPE)、加拿大皇家内外科医师学院院士 (RCPC)、英国皇家医学会会士 (RSM)、德国麻醉重症医学学会荣誉会士 (DGAI)、香港麻醉医师学院荣誉院士 (HKCA)",
+        "email": "电子邮件: davycheng@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王卫平",
+        "description": "校长顾问、执行副院长",
+        "email": "电子邮件: wangweiping@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "朱宝亭",
+        "description": "副院长（研究生事务）",
+        "email": "电子邮件: btzhu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "谭兆祥",
+        "description": "副院长（医学教育）",
+        "email": "电子邮件: michaeltam@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "叶德全",
+        "description": "副院长（科研与创新）",
+        "email": "电子邮件: richardye@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "黄宪达",
+        "description": "副院长（学生事务）",
+        "email": "电子邮件: huanghsienda@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "于广军",
+        "description": "副院长（医院事务）",
+        "email": "电子邮件: guangjunyu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "黄子为",
+        "description": "校长讲座教授",
+        "email": "电子邮件: huangz@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "NELSON, Edmund Anthony Severn (Tony)",
+        "description": "",
+        "email": "电子邮件: tonynelson@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王任直",
+        "description": "",
+        "email": "",
+        "college": "医学院"
+    },
+    {
+        "name": "邹和群",
+        "description": "",
+        "email": "电子邮件: zouhequn@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "张波",
+        "description": "",
+        "email": "电子邮件: zhangbo@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈学进",
+        "description": "专业应用教授",
+        "email": "电子邮件: chenxuejin@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "刘国珍",
+        "description": "助理院长（研究生事务）、校长学者",
+        "email": "电子邮件: liuguozhen@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈刚",
+        "description": "校长青年学者",
+        "email": "电子邮件: chengang@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "HIRAO, Hajime",
+        "description": "校长学者",
+        "email": "电子邮件: hirao@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王冠宇",
+        "description": "",
+        "email": "电子邮件: wangguanyu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "白芸",
+        "description": "",
+        "email": "电子邮件: baiyun@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "ALFAQEH, Hamoud ",
+        "description": "",
+        "email": "电子邮件: alfaqeh@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈卫",
+        "description": "",
+        "email": "电子邮件: dwchan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "柳正",
+        "description": "",
+        "email": "电子邮件: liuzheng@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "杜洋",
+        "description": "助理院长（科研与创新）、校长学者",
+        "email": "电子邮件: yangdu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "杜鹃",
+        "description": "助理院长（医学教育）",
+        "email": "电子邮件: dujuan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "成贵娟",
+        "description": "校长青年学者",
+        "email": "电子邮件: chengguijuan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "STJEPANOVIC, Goran",
+        "description": "",
+        "email": "电子邮件: goranstjepanovic@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "竺立哲",
+        "description": "校长青年学者",
+        "email": "电子邮件: zhulizhe@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "胡红丽",
+        "description": "校长青年学者",
+        "email": "电子邮件: honglihu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王攀",
+        "description": "校长青年学者",
+        "email": "电子邮件: wangpan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "江瑛芝",
+        "description": "",
+        "email": "电子邮件: chiangyc@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "雷湧",
+        "description": "校长青年学者",
+        "email": "电子邮件: leiyong@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "赵永娟",
+        "description": "",
+        "email": "电子邮件: zhaoyongjuan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "白晨",
+        "description": "校长青年学者",
+        "email": "电子邮件: baichen@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈吉航",
+        "description": "",
+        "email": "电子邮件: chenjihang@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈予思 ",
+        "description": "",
+        "email": "电子邮件: eunicechan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "李丛磊",
+        "description": "",
+        "email": "电子邮件: liconglei@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "蒋成",
+        "description": "",
+        "email": "电子邮件: jiangcheng@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "崔小林",
+        "description": "",
+        "email": "电子邮件: stevencui@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "贺益盛",
+        "description": "",
+        "email": "电子邮件: heyisheng@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王勇斐",
+        "description": "",
+        "email": "电子邮件: yfwang@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "郭景慧",
+        "description": "",
+        "email": "电子邮件: guojinghui@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "郭雪",
+        "description": "",
+        "email": "电子邮件: guoxue@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "陈国强",
+        "description": "",
+        "email": "电子邮件: tankokkeong@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "SHAKYA, Anjana ",
+        "description": "",
+        "email": "电子邮件: anjanashakya@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "徐岩",
+        "description": "",
+        "email": "电子邮件: yanxu@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "杨洲",
+        "description": "",
+        "email": "电子邮件: yangzhou@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "余轶婧",
+        "description": "",
+        "email": "电子邮件: yuyijing@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "CHERIAN, Meena Nathan",
+        "description": "",
+        "email": "电子邮件: cherianm15@gmail.com",
+        "college": "医学院"
+    },
+    {
+        "name": "黄念慈 \t\t",
+        "description": "",
+        "email": "电子邮件: gmshnc@nus.edu.sg",
+        "college": "医学院"
+    },
+    {
+        "name": "ORSER, Beverley Anne",
+        "description": "",
+        "email": "电子邮件: beverley.orser@utoronto.ca",
+        "college": "医学院"
+    },
+    {
+        "name": "SHERNAN, Stanton Keith",
+        "description": "",
+        "email": "电子邮件: sshernan@partners.org",
+        "college": "医学院"
+    },
+    {
+        "name": "MARTIN, Janet ",
+        "description": "",
+        "email": "电子邮件: jmarti83@uwo.ca",
+        "college": "医学院"
+    },
+    {
+        "name": "CHAN, Teresa ",
+        "description": "",
+        "email": "电子邮件: teresa.chan@medportal.ca",
+        "college": "医学院"
+    },
+    {
+        "name": "唐本忠",
+        "description": "",
+        "email": "电子邮件: tangbenz@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "余学清",
+        "description": "",
+        "email": "电子邮件: yuxueqing@gdph.org.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "张政",
+        "description": "",
+        "email": "电子邮件: zhangzheng1975@aliyun.com",
+        "college": "医学院"
+    },
+    {
+        "name": "梁长虹",
+        "description": "",
+        "email": "电子邮件: liangchanghong@gdph.org.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "吴一龙",
+        "description": "",
+        "email": "电子邮件: syylwu@live.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "林顺潮",
+        "description": "",
+        "email": "电子邮件: dennislam@hkcmer.com",
+        "college": "医学院"
+    },
+    {
+        "name": "BAEG, Gyeong Hun ",
+        "description": "",
+        "email": "电子邮件: ghbaeg@must.edu.mo",
+        "college": "医学院"
+    },
+    {
+        "name": "王明锋",
+        "description": "",
+        "email": "电子邮件: wangmingfeng@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "张昭宇",
+        "description": "",
+        "email": "电子邮件: zhangzy@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "吴松",
+        "description": "",
+        "email": "电子邮件: wusong@szu.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "王丽娟",
+        "description": "",
+        "email": "电子邮件: wljgd68@163.com",
+        "college": "医学院"
+    },
+    {
+        "name": "庄建",
+        "description": "",
+        "email": "电子邮件: Zhuangjian5413@tom.com",
+        "college": "医学院"
+    },
+    {
+        "name": "钟文昭",
+        "description": "",
+        "email": "电子邮件: 13609777314@163.com",
+        "college": "医学院"
+    },
+    {
+        "name": "刘再毅",
+        "description": "",
+        "email": "电子邮件: zyliu@163.com",
+        "college": "医学院"
+    },
+    {
+        "name": "高永波",
+        "description": "",
+        "email": "电子邮件: Gaoyongbo2007@sina.com",
+        "college": "医学院"
+    },
+    {
+        "name": "邹畅",
+        "description": "",
+        "email": "电子邮件: zou.chang@szhospital.com",
+        "college": "医学院"
+    },
+    {
+        "name": "韩晓光",
+        "description": "",
+        "email": "电子邮件: hanxiaoguang@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "孙正隆",
+        "description": "",
+        "email": "电子邮件: sunzhenglong@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "俞江帆",
+        "description": "",
+        "email": "电子邮件: yujiangfan@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "张焯然",
+        "description": "",
+        "email": "电子邮件: zhangzhuoran@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "李镇",
+        "description": "",
+        "email": "电子邮件: lizhen@cuhk.edu.cn",
+        "college": "医学院"
+    },
+    {
+        "name": "赵征",
+        "description": "",
+        "email": "电子邮件: zhaozheng@cuhk.edu.cn",
+        "college": "医学院"
+    }
+]
