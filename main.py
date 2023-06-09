@@ -84,7 +84,8 @@ class Retriever(object):
             print(f"[The question]\n{question}")
             print(f"[The retrieved QAs]\n{qas}")
             print(f"[The answer]\n{answer}")
-        return answer
+        retrieved_qas = qas.split("\n")
+        return answer, retrieved_qas
     
     #将输入的文本修改为以问号结尾
     def check_question_mark(self, text):
@@ -133,11 +134,12 @@ if __name__ == '__main__':
     demo = gr.Interface(
         fn=retriever.answer_question,
         inputs=["text", "checkbox"],
-        outputs="text",
+        outputs=["text", "text"],
         title="香港中文大学（深圳）---- 问答系统",
     )
     demo.launch()
 
+    
     # input_text = input("请输入一段中文文本：")
     # modified1_text = retriever.check_question_mark(input_text)
     # final_text = retriever.add_brackets(modified1_text)
