@@ -72,7 +72,7 @@ class Retriever(object):
         output = openai.ChatCompletion.create(
             model="text-embedding-ada-002",
             messages=[{"role": "user", "content": input}],
-            max_tokens=2048,
+            max_tokens=1536,
         )
         answer = output.choices[0].message.content
         if verbose:
