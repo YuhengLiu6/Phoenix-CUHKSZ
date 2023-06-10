@@ -32,7 +32,6 @@ class Retriever(object):
         self.knowledge_dir = knowledge_dir
         self.questions, self.answers = self._read_files()
         self.embeddings = self._embed_questions()
-        # self.embeddings = np.load("embeddings_2.npy")
 
     def _read_files(self):
         questions, answers = [], []
@@ -82,40 +81,40 @@ class Retriever(object):
         retrieved_qas = qas.split("\n")
         return answer, retrieved_qas
     
-    #将输入的文本修改为以问号结尾
-    def check_question_mark(self, text):
-        if len(text) > 0:
-            last_char = text[-1]
-            if last_char != '？':
-                if last_char == '。' or last_char == '！':
-                    text = text[:-1] + '？'
-                else:
-                    text += '？'
-        else:
-            text = ''
-        return text
     
-    def add_brackets(self, text):
-        keyword = "深圳"
-        if keyword in text:
-            index = text.find(keyword)
-            if index > 0 and text[index - 1] != "（" and text[index - 1] != "(":
-                text = text[:index] + "（" + text[index:]
-            if index + len(keyword) < len(text) and text[index + len(keyword)] != "）" and text[index + len(keyword)] != ")":
-                text = text[:index + len(keyword) + 1] + "）" + text[index + len(keyword)+1:]
-        return text
-
-    def check_and_add_cuhksz(text):
-        if "香港中文大学深圳" not in text and "香港中文大学（深圳）" not in text:
-            text = "香港中文大学（深圳）" + text
-        return text
-
-
 
     def modify_text(self, text):
-        text = self.check_and_add_cuhksz(text)
-        text = self.check_question_mark(text)
-        text = self.add_brackets(text)
+        #将输入的文本修改为以问号结尾
+        def check_question_mark(text):
+            if len(text) > 0:
+                last_char = text[-1]
+                if last_char != '？':
+                    if last_char == '。' or last_char == '！':
+                        text = text[:-1] + '？'
+                    else:
+                        text += '？'
+            else:
+                text = ''
+            return text
+        
+        def add_brackets(text):
+            keyword = "深圳"
+            if keyword in text:
+                index = text.find(keyword)
+                if index > 0 and text[index - 1] != "（" and text[index - 1] != "(":
+                    text = text[:index] + "（" + text[index:]
+                if index + len(keyword) < len(text) and text[index + len(keyword)] != "）" and text[index + len(keyword)] != ")":
+                    text = text[:index + len(keyword) + 1] + "）" + text[index + len(keyword)+1:]
+            return text
+
+        def check_and_add_cuhksz(text):
+            if "香港中文大学深圳" not in text and "香港中文大学（深圳）" not in text:
+                text = "香港中文大学（深圳）" + text
+            return text
+        
+        text = check_and_add_cuhksz(text)
+        text = check_question_mark(text)
+        text = add_brackets(text)
         return text
 
 
@@ -138,11 +137,9 @@ if __name__ == '__main__':
     )
     demo.launch()
 
-    # with open("questions.md", "r", encoding="utf-8") as w:
 
     # input_text = input("请输入一段中文文本：")
-    # modified1_text = retriever.check_question_mark(input_text)
-    # final_text = retriever.add_brackets(modified1_text)
+    # final_text = retriever.modify_text(input_text)
     # print("修改后的文本：", final_text)
 
     
