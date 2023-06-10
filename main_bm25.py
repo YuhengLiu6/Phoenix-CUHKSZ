@@ -72,7 +72,7 @@ class Retriever(object):
         output = openai.ChatCompletion.create(
             model="text-embedding-ada-002",
             messages=[{"role": "user", "content": input}],
-            max_tokens=1536,
+            max_tokens=512,
         )
         answer = output.choices[0].message.content
         if verbose:
@@ -87,15 +87,11 @@ class Retriever(object):
         if len(text) > 0:
             last_char = text[-1]
             if last_char != '？':
-                # 结尾不是问号，进行修改
                 if last_char == '。' or last_char == '！':
-                    # 删除句号或感叹号，并添加问号
                     text = text[:-1] + '？'
                 else:
-                    # 添加问号
                     text += '？'
         else:
-            # 输入为空，返回空字符串
             text = ''
         return text
     
@@ -109,10 +105,18 @@ class Retriever(object):
                 text = text[:index + len(keyword) + 1] + "）" + text[index + len(keyword)+1:]
         return text
 
+    def check_and_add_cuhksz(text):
+        if "香港中文大学深圳" not in text and "香港中文大学（深圳）" not in text:
+            text = "香港中文大学（深圳）" + text
+        return text
+
+
+
     def modify_text(self, text):
-        modified_text = self.check_question_mark(text)
-        final_text = self.add_brackets(modified_text)
-        return final_text
+        text = self.check_and_add_cuhksz(text)
+        text = self.check_question_mark(text)
+        text = self.add_brackets(text)
+        return text
 
 
 
@@ -123,16 +127,16 @@ class Retriever(object):
 
 if __name__ == '__main__':
     retriever = Retriever(knowledge_dir="data/data_20230609")
-    Q = input("请输入您的问题：")
-    ans = retriever.answer_question(Q, verbose=True)
+    # Q = input("请输入您的问题：")
+    # ans = retriever.answer_question(Q, verbose=True)
 
-    # demo = gr.Interface(
-    #     fn=retriever.answer_question,
-    #     inputs=["text", "checkbox"],
-    #     outputs=["text", "text"],
-    #     title="香港中文大学（深圳）---- 问答系统",
-    # )
-    # demo.launch()
+    demo = gr.Interface(
+        fn=retriever.answer_question,
+        inputs=["text", "checkbox"],
+        outputs=["text", "text"],
+        title="香港中文大学（深圳）---- 问答系统",
+    )
+    demo.launch()
 
     # with open("questions.md", "r", encoding="utf-8") as w:
 
